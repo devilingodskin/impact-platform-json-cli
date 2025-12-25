@@ -189,13 +189,13 @@ Permission denied при создании symlink — запустите install
   Рекомендуемый способ — установить напрямую из GitHub одной командой:
 
   ```bash
-  npm install -g git+https://github.com/<your-user>/<your-repo>.git
+  npm install -g git+https://github.com/devilingodskin/impact-platform-json-cli.git
   ```
 
   Локальная установка (для тестирования):
 
   ```bash
-  git clone https://github.com/<your-user>/<your-repo>.git
+  git clone https://github.com/devilingodskin/impact-platform-json-cli
   cd <your-repo>
   npm install -g .
   ```
