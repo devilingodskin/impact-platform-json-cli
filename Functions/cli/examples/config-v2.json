@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "prod.example.com",
+    "port": 5432,
+    "max_connections": 80
+  },
+  "featureFlag": {
+    "newFeature": true
+  },
+  "apiKey": "new-key"
+}

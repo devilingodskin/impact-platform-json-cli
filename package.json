@@ -1,0 +1,15 @@
+{
+  "name": "visual-change-impact-cli",
+  "version": "1.0.0",
+  "description": "Visual Change Impact Platform - CLI",
+  "main": "Functions/cli/impact-cli.js",
+  "bin": {
+    "impact": "Functions/cli/impact-cli.js"
+  },
+  "keywords": ["cli","config","diff","impact"],
+  "author": "devilingodskin",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  }
+}
