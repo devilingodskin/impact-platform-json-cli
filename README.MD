@@ -2,12 +2,12 @@
 
 # Локальный анализатор изменений в конфигурациях json и jaml для использования в cli.
 
-#Требования
+# Требования
 
 Node.js (рекомендуется LTS). Проверьте: node --version.
 Установка
 
-#Установка напрямую из GitHub:
+# Установка напрямую из GitHub:
 npm install -g git+https://github.com/devilingodskin/impact-platform-json-cli.git затем
 impact --help
 Или из клона:
