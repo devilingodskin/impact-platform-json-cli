@@ -10,13 +10,15 @@ Node.js (рекомендуется LTS). Проверьте: node --version.
 # Установка напрямую из GitHub:
 npm install -g git+https://github.com/devilingodskin/impact-platform-json-cli.git затем
 impact --help
-Или из клона:
+
+# Или из клона:
 git clone https://github.com/devilingodskin/impact-platform-json-cli.git
 cd (по пути установки)
 npm install -g .
 impact --help
-Через install.sh (использует symlink) Mac/Linux:
-# из корня репозитория
+
+# Через install.sh (использует symlink) Mac/Linux:
+из корня репозитория
 bash install.sh
 impact --help
 
